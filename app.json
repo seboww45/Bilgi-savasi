@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "650c1548-20b2-4b03-ae72-e112db2bfef6"
+      }
+    },
+    "android": {
+      "package": "com.bilgisavasi.app"
+    }
+  }
+}
